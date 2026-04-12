@@ -92,4 +92,4 @@ Huge thanks to **Mr. Tanmoy Chakraborty** for guiding and inspiring this learnin
 
 ## ⭐ If you found this helpful
 
-Give this repo a ⭐ and connect with me on LinkedIn!
+Give this repo a ⭐ and connect with me on LinkedIn https://www.linkedin.com/in/atishay-jain-718014313/
